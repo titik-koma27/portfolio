@@ -1,0 +1,7 @@
+@tailwind utilities;
+@tailwind componenets;
+@tailwind base;
+
+body {
+  font-family: "Quicksand", arial, sans-serif;
+}
